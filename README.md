@@ -37,5 +37,3 @@ To get a local copy up and running, follow these simple steps:
 Choose your preferred package manager (Note: Bun is recommended for this project):
 
 **Using Bun:**
-```bash
-bun install
