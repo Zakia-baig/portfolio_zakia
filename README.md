@@ -15,14 +15,17 @@ Welcome to my professional portfolio. I specialize in building intelligent syste
 
 ## 🚀 Key Projects
 
-### 🏥 CropGuard - Agriculture Support CLI
-An AI-driven application designed to assist farmers with disease detection and market insights, providing real-time support for agricultural efficiency.
+### 🤖 Smart Chatbot System
+An intelligent AI-powered chatbot that automates customer support and engages users with natural conversations using advanced prompt engineering.
+- **Tech Stack:** OpenAI, Prompt Engineering, React, Node.js.
 
-### 🤖 Humanoid Robotics Project
-A specialized documentation and chatbot system built with Docusaurus, integrated with a custom AI assistant for robotics knowledge management.
+### 🌐 Responsive Portfolio Website
+A modern, fully responsive portfolio with premium animations, dark theme, and SEO-optimized architecture for personal branding.
+- **Tech Stack:** React, Tailwind CSS, Framer Motion, TypeScript.
 
-### 💼 Gold Tier AI Employee System
-A comprehensive automation suite that manages accounting, social media tasks, and general project management through intelligent agents.
+### 🛍️ eCommerce Website
+Full-featured online store with product catalog, cart, secure checkout, and admin dashboard built with modern web stack.
+- **Tech Stack:** Next.js, Stripe, Tailwind CSS, Database.
 
 ---
 
